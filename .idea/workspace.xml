@@ -11,22 +11,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyAbstractClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="25">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
               <folding>
+                <element signature="class#MyAbstractClass#0" />
+                <element signature="method#main#0;class#MyAbstractClass#0" />
                 <element signature="class#MyAbsExtendClass#0" />
                 <element signature="class#MyAbsClass#0" />
                 <element signature="n#!!block;n#myMethod#0;n#MyAbsClass#0" />
-                <element signature="class#Entity#0" />
+                <element signature="class#Animal#0" />
                 <element signature="n#!!block;n#move#0;n#Animal#0" />
                 <element signature="class#Human#0" />
-                <element signature="class#Fist#0" />
-                <element signature="class#MyClass#0" />
+                <element signature="class#Fish#0" />
+                <element signature="class#MyClass2#0" />
                 <element signature="method#MyClass2#0;class#MyClass2#0" />
                 <element signature="method#MyClass2#1;class#MyClass2#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InterfaceBasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+              <folding>
+                <element signature="class#InterfaceBasic#0" />
+                <element signature="class#People#0" />
+                <element signature="class#Clickable#0" />
+                <element signature="class#Focusable#0" />
+                <element signature="class#MyView#0" />
+                <element signature="method#onClick#0;class#MyView#0" />
+                <element signature="method#onFocus#0;class#MyView#0" />
+                <element signature="class#ListView#0" />
+                <element signature="method#onClick#0;class#ListView#0" />
+                <element signature="class#InterfaceTest#0" />
+                <element signature="method#main#0;class#InterfaceTest#0" />
+                <element signature="class#270:592" />
+                <element signature="class#MyAbsImp#0" />
+                <element signature="method#onClick#0;class#MyAbsImp#0" />
+                <element signature="method#onFocus#0;class#MyAbsImp#0" />
               </folding>
             </state>
           </provider>
@@ -38,8 +66,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/JavaSum.java" />
         <option value="$PROJECT_DIR$/src/Array2D.java" />
         <option value="$PROJECT_DIR$/src/MyAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/InterfaceBasic.java" />
       </list>
     </option>
   </component>
@@ -67,12 +100,15 @@
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,16 +116,21 @@
               <item name="class03" type="b2602c69:ProjectViewProjectNode" />
               <item name="class03" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="class03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="class03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555609905249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556470635772" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
@@ -165,8 +206,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,6 +236,35 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21966206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/object/MyClassObject.java" />
@@ -338,19 +409,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="25">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
           <folding>
+            <element signature="class#MyAbstractClass#0" />
+            <element signature="method#main#0;class#MyAbstractClass#0" />
             <element signature="class#MyAbsExtendClass#0" />
             <element signature="class#MyAbsClass#0" />
             <element signature="n#!!block;n#myMethod#0;n#MyAbsClass#0" />
-            <element signature="class#Entity#0" />
+            <element signature="class#Animal#0" />
             <element signature="n#!!block;n#move#0;n#Animal#0" />
             <element signature="class#Human#0" />
-            <element signature="class#Fist#0" />
-            <element signature="class#MyClass#0" />
+            <element signature="class#Fish#0" />
+            <element signature="class#MyClass2#0" />
             <element signature="method#MyClass2#0;class#MyClass2#0" />
             <element signature="method#MyClass2#1;class#MyClass2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfaceBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="class#InterfaceBasic#0" />
+            <element signature="class#People#0" />
+            <element signature="class#Clickable#0" />
+            <element signature="class#Focusable#0" />
+            <element signature="class#MyView#0" />
+            <element signature="method#onClick#0;class#MyView#0" />
+            <element signature="method#onFocus#0;class#MyView#0" />
+            <element signature="class#ListView#0" />
+            <element signature="method#onClick#0;class#ListView#0" />
+            <element signature="class#InterfaceTest#0" />
+            <element signature="method#main#0;class#InterfaceTest#0" />
+            <element signature="class#270:592" />
+            <element signature="class#MyAbsImp#0" />
+            <element signature="method#onClick#0;class#MyAbsImp#0" />
+            <element signature="method#onFocus#0;class#MyAbsImp#0" />
           </folding>
         </state>
       </provider>
