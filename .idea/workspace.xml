@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e32999ad-328f-4ed2-9e21-ec460305557a" name="Default Changelist" comment="" />
+    <list default="true" id="e32999ad-328f-4ed2-9e21-ec460305557a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,50 +13,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyAbstractClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <element signature="class#MyAbstractClass#0" />
-                <element signature="method#main#0;class#MyAbstractClass#0" />
-                <element signature="class#MyAbsExtendClass#0" />
-                <element signature="class#MyAbsClass#0" />
-                <element signature="n#!!block;n#myMethod#0;n#MyAbsClass#0" />
-                <element signature="class#Animal#0" />
-                <element signature="n#!!block;n#move#0;n#Animal#0" />
-                <element signature="class#Human#0" />
-                <element signature="class#Fish#0" />
-                <element signature="class#MyClass2#0" />
-                <element signature="method#MyClass2#0;class#MyClass2#0" />
-                <element signature="method#MyClass2#1;class#MyClass2#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/InterfaceBasic.java">
+        <entry file="file://$PROJECT_DIR$/src/Inheritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+            <state relative-caret-position="478">
+              <caret line="125" column="7" selection-start-line="125" selection-start-column="7" selection-end-line="125" selection-end-column="7" />
               <folding>
-                <element signature="class#InterfaceBasic#0" />
-                <element signature="class#People#0" />
-                <element signature="class#Clickable#0" />
-                <element signature="class#Focusable#0" />
-                <element signature="class#MyView#0" />
-                <element signature="method#onClick#0;class#MyView#0" />
-                <element signature="method#onFocus#0;class#MyView#0" />
-                <element signature="class#ListView#0" />
-                <element signature="method#onClick#0;class#ListView#0" />
-                <element signature="class#InterfaceTest#0" />
-                <element signature="method#main#0;class#InterfaceTest#0" />
-                <element signature="class#270:592" />
-                <element signature="class#MyAbsImp#0" />
-                <element signature="method#onClick#0;class#MyAbsImp#0" />
-                <element signature="method#onFocus#0;class#MyAbsImp#0" />
+                <element signature="e#0#1694#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#2190#2191#0" expanded="true" />
+                <element signature="e#2222#2223#0" expanded="true" />
+                <element signature="e#2413#2414#0" expanded="true" />
+                <element signature="e#2452#2453#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,8 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/Array2D.java" />
         <option value="$PROJECT_DIR$/src/MyAbstractClass.java" />
         <option value="$PROJECT_DIR$/src/InterfaceBasic.java" />
+        <option value="$PROJECT_DIR$/src/Inheritance.java" />
       </list>
     </option>
   </component>
@@ -108,7 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +105,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Course" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556470635772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556818256217" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
@@ -145,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyAbstractClass">
+  <component name="RunManager" selected="Application.ExtendTrial">
     <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2D" />
       <module name="class03" />
@@ -153,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableTest" />
+    <configuration name="ExtendTrial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendTrial" />
       <module name="class03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -183,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtendTrial" />
         <item itemvalue="Application.MyAbstractClass" />
         <item itemvalue="Application.Array2D" />
         <item itemvalue="Application.MyIntDiv" />
         <item itemvalue="Application.JavaSum" />
-        <item itemvalue="Application.ImmutableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +188,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -217,7 +197,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21966206" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30875576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InterfaceBasic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        <state relative-caret-position="339">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
           <folding>
             <element signature="class#InterfaceBasic#0" />
             <element signature="class#People#0" />
@@ -444,10 +424,33 @@
             <element signature="method#onClick#0;class#ListView#0" />
             <element signature="class#InterfaceTest#0" />
             <element signature="method#main#0;class#InterfaceTest#0" />
-            <element signature="class#270:592" />
             <element signature="class#MyAbsImp#0" />
             <element signature="method#onClick#0;class#MyAbsImp#0" />
             <element signature="method#onFocus#0;class#MyAbsImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="125" column="7" selection-start-line="125" selection-start-column="7" selection-end-line="125" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#1694#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#2190#2191#0" expanded="true" />
+            <element signature="e#2222#2223#0" expanded="true" />
+            <element signature="e#2413#2414#0" expanded="true" />
+            <element signature="e#2452#2453#0" expanded="true" />
           </folding>
         </state>
       </provider>
